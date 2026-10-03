@@ -75,3 +75,13 @@ This project serves two purposes:
 James Burdick
 
 Software Development Student
+
+## Disclaimer
+
+AcademyPrep is an independent educational project created by James Burdick.
+
+This application is not affiliated with, endorsed by, sponsored by, or associated with the California Highway Patrol (CHP), the State of California, or any law enforcement agency.
+
+All training information is intended for educational and personal fitness tracking purposes only. Users should always verify current academy requirements and fitness standards through official sources.
+
+The CHP APP Preparation Program remains the property of its respective owners (The California Highway Patrol)
